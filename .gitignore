@@ -1,0 +1,6 @@
+*.ckpt
+figs/
+save/
+convert.py
+resize.py
+__pycache__/
